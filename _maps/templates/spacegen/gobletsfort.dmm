@@ -1,0 +1,43 @@
+"a" = (/turf/simulated/floor/jungle,/area/template/pmc/rodocks)
+"b" = (/obj/structure/flora/tree/goon,/turf/simulated/floor/jungle,/area/template/pmc/rodocks)
+"c" = (/obj/structure/flora/tree/jungle_small,/turf/simulated/floor/jungle,/area/template/pmc/rodocks)
+"d" = (/mob/living/carbon/human/interactive/angry,/turf/simulated/floor/jungle,/area/template/pmc/rodocks)
+"e" = (/turf/simulated/wall/mineral/wood,/area/template/pmc/rodocks)
+"f" = (/turf/simulated/floor/wood,/area/template/pmc/rodocks)
+"g" = (/obj/machinery/door/airlock,/turf/simulated/floor/wood,/area/template/pmc/rodocks)
+"h" = (/mob/living/carbon/human/interactive,/turf/simulated/floor/wood,/area/template/pmc/rodocks)
+"i" = (/obj/structure/bed,/obj/item/documents{desc = "Its just https://github.com/goonstation/goonstation-2016 listed over and over again."; name = "Secrets of the universe"},/turf/simulated/floor/wood,/area/template/pmc/rodocks)
+"j" = (/mob/living/carbon/human/interactive/angry,/turf/simulated/floor/wood,/area/template/pmc/rodocks)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaacaaaaaaaaaaaaaaaa
+aaaaaacaaacaaaaaaaaaaaaaaacaaa
+aaaaaaadaaaaaaaaacaaaacaaaaaaa
+aacaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaabaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaeeeeeeeeaaaaaaaaaaaaa
+aaaaacaaaeffgfffeaaaacaaaaaaaa
+aaacaaaaaehiefffeaaaaaaaaaaaaa
+aaaaaaaaaeeeefffeaaaaaaaaacaaa
+aaaaaaaaaeffffffeadaaaaaaaaaaa
+aaaaabadaeffffffeaaabaaaaaaaaa
+aaaaaaaaaefjffffeaaaaaaaaaaaaa
+aaaaaaaaaeeeggeeeaaaaaaaaaaaaa
+aacaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaabaaaacaaaaaa
+aaaaacaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aacaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaaaaaabaaaaaacaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaacaaaaaaaaacaaaaaaa
+aaaaaaaaaaaaaaaabaaaaaaaaaaaaa
+aaaaaacaaaaaaaaaaaaaaaaaaaaaaa
+aaabaaaaaaaaaaaaaacaaaaaaabaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+acaaaaaaaaaacaaaaaabaaaaaacaaa
+aaaaaaaabaaaaaaaaaaaaaaaaaaaaa
+"}

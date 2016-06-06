@@ -1,0 +1,41 @@
+"a" = (/turf/indestructible/floor,/area/shuttle/syndicate)
+"b" = (/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndifloor-1"; icon_state = "syndifloor-1"},/area/shuttle/syndicate)
+"c" = (/turf/simulated/floor/russianbullshit/edge,/area/shuttle/syndicate)
+"d" = (/obj/item/device/flashlight/lamp,/turf/simulated/floor/russianbullshit/edge,/area/shuttle/syndicate)
+"e" = (/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndifloor-5"; icon_state = "syndifloor-5"},/area/shuttle/syndicate)
+"f" = (/obj/machinery/shower{dir = 4},/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-4"; icon_state = "syndirfloor-4"},/area/shuttle/syndicate)
+"g" = (/obj/machinery/shower{dir = 8},/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-1"; icon_state = "syndirfloor-1"},/area/shuttle/syndicate)
+"h" = (/obj/machinery/shower{dir = 4},/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-1"; icon_state = "syndirfloor-1"},/area/shuttle/syndicate)
+"i" = (/obj/machinery/shower{dir = 8},/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-2"; icon_state = "syndirfloor-2"},/area/shuttle/syndicate)
+"j" = (/obj/structure/toilet,/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-1"; icon_state = "syndirfloor-1"},/area/shuttle/syndicate)
+"k" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-1"; icon_state = "syndirfloor-1"},/area/shuttle/syndicate)
+"l" = (/obj/machinery/door/airlock/old,/turf/simulated/floor/russianbullshit/edge,/area/shuttle/syndicate)
+"m" = (/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndirfloor-1"; icon_state = "syndirfloor-1"},/area/shuttle/syndicate)
+"n" = (/obj/item/device/camera_bug,/turf/simulated/floor/russianbullshit/edge,/area/shuttle/syndicate)
+"o" = (/obj/machinery/door/airlock/old,/turf/simulated/floor/plasteel/syndifloor{tag = "icon-syndifloor-1"; icon_state = "syndifloor-1"},/area/shuttle/syndicate)
+"p" = (/obj/structure/bed,/turf/simulated/floor/russianbullshit/edge,/area/shuttle/syndicate)
+"q" = (/turf/indestructible/edge,/area/shuttle/syndicate)
+"r" = (/turf/indestructible/fakewaterwall,/area/shuttle/syndicate)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aaaaabbbbbbbabbbbbba
+aaaaabcdcecdabfgahia
+aajkabcccacclbmmmmma
+aammabcdcednabfgahia
+aaaoabcccacclbmmmmma
+abbbbbnccecdabfgahia
+abcccccdcacclbbbbbba
+abcdccccceccaaaaaaaa
+abcccccccadcccdccdba
+abcccccdceccccccdcba
+abcdcncccaccdcdcccba
+abcccccccecccccncdba
+aaaooaaaaaaaaaaooaaa
+abcccpcpcccpcpccccba
+abcdccnccdccncccdcba
+abcccpcpcccpcpccccba
+abbbbbbbbbbbbbbbbbba
+qqqqqqqqqqqqqqqqqqqq
+rrrrrrrrrrrrrrrrrrrr
+"}
